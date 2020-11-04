@@ -9,18 +9,24 @@ Phân công công việc:
   3. Lê Hoàng Bảo Thiên - Views.
   
 Các chức năng cơ bản
-  1. Nhóm chức năng thông tin:
-  - Giới thiệu nhà hàng
-  - Tin tức, sự kiện ẩm thực
+  1. Phần giao diện (nhóm chức năng thông tin):
+  - Giới thiệu nhà hàng, tin tức, sự kiện ẩm thực
   - Giới thiệu thực đơn, cách thức chế biến
-  - Thông tin, đánh giá phản hồi về nhà hàng
+  - Hiển thị được các sản phẩm bán chạy, các sản phẩm khuyến mại, các sản phẩm cùng loại…
+  - Hiển thị thông tin, đánh giá phản hồi về nhà hàng
+  - Hiển thị các thông tin khuyến mãi, tuyển dụng của nhà hàng
   
-  2. Nhóm chức năng kinh doanh
-  - Giới thiệu các dịch vụ, món ăn, thực đơn của nhà hàng
-  - Chức năng tìm kiếm các món ăn, thực đơn theo tên, giá
-  - Chức năng đặt bàn trực tuyến
+  2. Phần người dùng (nhóm chức năng kinh doanh)
+  - Cho phép khách hàng xem thông tin chi tiết, tìm kiếm các sản phẩm, tin tức mà khách hàng quan tâm
+  - Cho phép khách hàng đặt mua sản phẩm, đặt bàn online mà không cần tài khoản
+  - Cho phép khách hàng phản hồi trực tiếp trên website
+  - Hỗ trợ khách hàng trực tuyến 
   
-  3. Nhóm chức năng hệ thống
-  - Cung cấp chức năng phân quyền, cập nhập các thông tin, dữ liệu trên hệ thống
-  - Cho phép người quản trị sửa các thông tin trên website
-  - Cho phép người quản trị nhận đơn đặt bàn và liên hệ với khách hàng
+  3. Phần quản lý (nhóm chức năng hệ thống)
+  - Đăng nhập hệ thống: đăng nhập bằng quyền admin để quản lý website
+  - Quản lý danh mục: dùng để thêm sửa xóa các danh mục sản phẩm, tin tức, ...
+  - Quản lý khách hàng: dùng để quản lý thông tin khách hàng đã đặt bàn để liên hệ và tiến hành xác nhận
+  - Quản lý phản hồi: dùng để quản lý và theo dõi các phản hồi của khách hàng trực tiếp trên website
+  - Quản lý sản phẩm: dùng để thêm sửa xóa các món ăn, thực đơn của nhà hàng
+  - Quản lý giá cả, chi tiết món ăn
+  - Quản lý tin tức, thông tin khuyến mãi, tuyển dụng
