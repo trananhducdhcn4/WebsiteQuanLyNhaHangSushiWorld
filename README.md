@@ -5,8 +5,8 @@ Xây dựng một website với các chức năng đáp ứng nhu cầu thông t
 
 Phân công công việc:
   1. Nguyễn Thành Đạt - Controllers.
-  2. Trần Anh Đức -  Models.
-  3. Lê Hoàng Bảo Thiên - Views.
+  2. Trần Anh Đức -  Views.
+  3. Lê Hoàng Bảo Thiên - Models.
   
 Các chức năng cơ bản
   1. Phần giao diện (nhóm chức năng thông tin):
